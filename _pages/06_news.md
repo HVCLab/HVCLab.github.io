@@ -7,6 +7,9 @@ permalink: /news/
 # 2024
 <hr>
 
+### April
+- **Luzie** starts as a PhD student in the lab. Welcome!
+
 ### March
 - **Victoria** starts as a research assistant in the lab. Welcome!
 
