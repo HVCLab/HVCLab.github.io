@@ -78,6 +78,24 @@
     favorite one being skiing. He speaks Russian and English.
   photo: /images/team/andrey_zyryanov.jpg
 
+
+- name: Luzie Kallfaß
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Luzie is a Biologist, who focused on Neurobiology in her Masters. In April 2024 she started as a PhD 
+    candidate in the lab. In her Bachelors Luzie studied Biology at the University of Tübingen and 
+    as she realized that the brain and all its mysteries fascinated her the most regarding the big topic of Biology, 
+    she decided to continue with the Neurobiology Master in Tübingen. After she completed her Masters, 
+    she did an ERASMUS+ internship at the University of Gent, where she worked on an EEG project about conformity. 
+    In the lab, she is now investigating the different states of neutrality in the brain during a perceptual decision-making task. 
+    Outside of the lab Luzie enjoys doing sports and yoga and reading all kind of books. 
+    Luzie speaks German and English, and knows some basics in French and Kiswahili.
+  photo: /images/team/luzie_kallfass.jpg
+
+
+
 - name: Lea-Marie Tewald
   is_pi: False
   is_current: True
@@ -116,6 +134,17 @@
     the Norwegian language and its relation to its Scandinavian relatives.
     Outside of university, Joel's interests focus mainly on making music and sports.
   photo: /images/team/joel_baisch.jpg
+
+- name: Victoria Pierz
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  bio: >
+    Victoria is a student of Computational Linguistics at the University of Tübingen. Her interest in languages started at a 
+    young age as she grew up bilingual and continued learning languages as a hobby. While her studies deepened her interest in 
+    speech processing and natural language understanding, Victoria's passion for understanding the human brain led her to join 
+    the hvc lab as a research assistant. Here, she applies her knowledge in computational linguistics to explore the connections 
+    between language and cognition. Outside of her academic commitments she loves to bake and play the guitar or piano.
 
 - name: Madeline Philipsen
   is_pi: False
