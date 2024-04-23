@@ -123,6 +123,22 @@
     She speaks German, English, some French, as well as little bits of Spanish and Norwegian.
   photo: /images/team/johanna_oefele.jpg
 
+
+- name: Leon Ilge
+  is_pi: False
+  is_current: True
+  position: Bachelor Student
+  bio: >
+    Leon recently decided to say good bye to teaching and the Bachelor of Education. He joined the lab for his bachelor 
+    thesis on sound complexity and perceptual onsets for a smooth transitioning into the MSc in either neurobiology or 
+    cognitive science. Majoring in Biology and English situate him at the intersection between science and humanities which 
+    fostered strong cross-disciplinary critical thinking and a solid foundation for working in very interdisciplinary fields. 
+    He also helps out at the Neuroscience Student Lab taking care of the sheep brain but he cannot wait to get his hands on 
+    living material.
+  photo: /images/team/leon_ilge.jpg
+
+
+
 - name: Joel Baisch
   is_pi: False
   is_current: True
