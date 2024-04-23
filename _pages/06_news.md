@@ -9,6 +9,7 @@ permalink: /news/
 
 ### April
 - **Luzie** starts as a PhD student in the lab. Welcome!
+- **Leon** starts his Bachelor thesis project with us. Welcome in the lab!
 
 ### March
 - **Victoria** starts as a research assistant in the lab. Welcome!
