@@ -19,7 +19,7 @@ For these positions, please contact Yulia and include the following information 
   -	Type, duration and possible time frame for the project/RA position. 
   -	Your CV and your most recent transcript. 
   -	A few sentences on why you are interested in the lab. 
-  -	Your German and English proficiency levels. <br>
+  -	Your German and English proficiency levels. <br><br>
 
 - **PhD/Postdoc positions:** PhD and postdoctoral research opportunities can be funded via lab funding or through fellowships. If you are interested in pursuing research in the lab, please contact Yulia to discuss current and upcoming opportunities.
 In addition to the above information please include a research statement (max. 1 page) detailing your past research experience, future research interests, and your motivation for joining the lab, as well as the names of 2-3 references.
