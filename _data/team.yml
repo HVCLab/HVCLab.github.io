@@ -111,17 +111,6 @@
     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
   photo: /images/team/lea-marie_tewald.jpeg
 
-- name: Johanna Oefele
-  is_pi: False
-  is_current: True
-  position: Bachelor Student
-  bio: >
-    Johanna is studying Biology and joined the lab for her bachelor thesis regarding speech rate normalization effects. 
-    Her interest in psychology, neural processes and behavioural studies motivates her to explore the field of neuroscience 
-    even more in her future studies. In her free time, Johanna likes to be outside, be it either taking pictures of cats, 
-    doing sports like biking, running and Quadball (formerly known as Quidditch) or travelling to different countries. 
-    She speaks German, English, some French, as well as little bits of Spanish and Norwegian.
-  photo: /images/team/johanna_oefele.jpg
 
 
 - name: Leon Ilge
@@ -182,3 +171,8 @@
   is_pi: False
   is_current: False
   position: Master Student
+
+- name: Johanna Oefele
+  is_pi: False
+  is_current: False
+  position: Bachelor Student
