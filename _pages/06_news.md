@@ -7,6 +7,19 @@ permalink: /news/
 # 2024
 <hr>
 
+
+### July
+- **Mara** participates in the [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2024/home) in Colorado, USA. She is awarded this year's ["Best New Neuromorph"](https://sites.google.com/view/telluride-2024/about-workshop/awards) title for best representing the collaborative spirit and energy of the workshop!
+- The lab visits [SAMBA](https://samba.ccns.sbg.ac.at/samba-2024/), the Salzburg Mind Brain Annual Meeting, where **Yulia** gives a talk as [invited speaker](https://samba.ccns.sbg.ac.at/samba-2024/speakers/yulia-oganian/).
+
+### June
+- For the [Neutral by Choice](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice) workshop the PI´s and PhD students from the groups in Heidelberg (Christoph Korn, Jiatong and Raphael) and Konstanz (Verena Wagner, and Daniela) meet **Yulia** and **Luzie** in Tübingen. Two days filled with presentations, discussions and getting to know each other, perfectly organized by our research assistant **Victoria**.
+
+### May
+- **Andrey** represents our lab at the Conference ["Psychologie und Gehirn"](https://pug2024.de), presenting his work in a poster.
+- **Peter** starts in the lab as Postdoctoral Researcher to investigate natural speech processing in autism. Welcome!
+- **Peter** and **Charlotte** visit the [Advanced MEG/EEG Toolkit Workshop](https://www.fieldtriptoolbox.org/workshop/toolkit2024/) at Donders Institute in Nijmegen, Netherlands.
+
 ### April
 - **Luzie** starts as a PhD student in the lab. Welcome!
 - **Leon** starts his Bachelor thesis project with us. Welcome in the lab!
@@ -17,9 +30,7 @@ permalink: /news/
 ### February
 - New project in the lab: Starting in April 2024, [this project](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice), newly funded by the Heidelberg Academy of sciences, will explore empirical evidence for cognitive states of neutrality during perceptual decision making. In collaboration with [Verena Wagner](https://verenawagner.net) (Konstanz) and [Christoph Korn](http://www.dnhi-lab.org) (Heidelberg)
 
-
 ### January
-
 - **Johanna** starts as a Bachelor student in the lab. Welcome!
 - **Yulia** is awarded the [Human Cognitive and Behavioural Science Grant](https://www.sfari.org/2024/01/23/2023-sfari-human-cognitive-and-behavioral-science-awardees-announced/) administered by the Simons Foundation Autism Research Initiative (SFARI) for the project "Neural tracking of acoustic-prosodic content in speech in adults with high-functioning ASD".
 
