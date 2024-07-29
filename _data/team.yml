@@ -21,6 +21,28 @@
     She sometimes tries to speak Spanish and French, but mostly with little success.
   photo: /images/team/yulia_oganian.jpg
 
+
+- name: Peter Bang
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Researcher
+  linkedin: https://www.linkedin.com/in/peterbangpsych/
+  twitter: https://twitter.com/peterbang1992?lang=en
+  bio: >
+    Peter, a psychologist turned neuroscientist, is passionate about exploring the intersection 
+    of brain and behavior. He earned his PhD from Linköping University, where he focused on the 
+    role of sensorimotor processing in quantitative autistic traits, with particular emphasis on 
+    social pragmatic communication.
+    At the Human Verbal Communication Lab, Peter investigates the impact of social 
+    pragmatic communication problems on the neural encoding of prosodic features in natural conversation. 
+    He employs behavioral paradigms and MEG in his research. Peter's overarching goal in science is to 
+    enhance the understanding of individual differences through measures of physiology and behavior, 
+    while ensuring that his research remains meaningful to those it concerns.
+    Outside of work, Peter enjoys cooking, brewing beer, and discussing football. He is fluent in Danish, 
+    Swedish, and English, and hopes to add German to his repertoire.
+  photo: /images/team/peter_bang.jpg
+
+
 - name: Charlotte Mock
   is_pi: False
   is_current: True
@@ -28,7 +50,6 @@
   github: https://github.com/charlottemock
   twitter: https://twitter.com/_charlottemock
   linkedin: https://www.linkedin.com/in/charlotte-m-mock/ 
-
   bio: >
     Charlotte is a speech and language therapist turned cognitive scientist with
     an interest in the neural underpinnings of multimodal language processing. 
