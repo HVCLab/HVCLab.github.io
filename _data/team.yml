@@ -22,6 +22,24 @@
   photo: /images/team/yulia_oganian.jpg
 
 
+- name: Camila Zugarramurdi
+  is_pi: False
+  is_current: True
+  position: Visiting Researcher
+  linkedin: https://www.linkedin.com/in/camila-zugarramurdi-4867661bb/
+  scholar: https://scholar.google.com/citations?user=pUm_l1EAAAAJ&hl=en&oi=ao
+  bio: >
+    Camila is an Assistant Professor at the School of Psychology at Universidad de la República, Uruguay. 
+    She obtained her Ph.D. in Cognitive Neuroscience from the Basque Center for Cognition, Brain and Language 
+    in Spain and her Master's degree in Neuroscience from PEDECIBA in Uruguay. She is currently a visiting 
+    researcher in the lab, working on neurophysiological analysis of EEG data applied to language processing 
+    in children with dyslexia and reading difficulties. She is committed to the integration of Cognitive Science 
+    and Education until all children have quality opportunities to learn to read. She tried to learn German but 
+    gave up after consistently failing to order a cup of coffee.
+  photo: /images/team/camila_zugarramurdi.jpg
+
+
+
 - name: Peter Bang
   is_pi: False
   is_current: True
