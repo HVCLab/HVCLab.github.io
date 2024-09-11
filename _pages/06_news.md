@@ -14,9 +14,6 @@ permalink: /news/
 - **Charlotte** presents her work at this year's [AMLaP](https://amlap2024.ed.ac.uk) conference in Edinburgh, Scotland.
 - The [Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2024/) takes place in Tübingen from 26.09.24 to 27.09.24. The lab is looking forward to seeing you there!
 
-### August
-
-
 ### July
 - **Mara** participates in the [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2024/home) in Colorado, USA. She is awarded this year's ["Best New Neuromorph"](https://sites.google.com/view/telluride-2024/about-workshop/awards) title for best representing the collaborative spirit and energy of the workshop!
 - The lab visits [SAMBA](https://samba.ccns.sbg.ac.at/samba-2024/), the Salzburg Mind Brain Annual Meeting, where **Yulia** gives a talk as [invited speaker](https://samba.ccns.sbg.ac.at/samba-2024/speakers/yulia-oganian/). **Andrey** and **Peter** each present a poster.
