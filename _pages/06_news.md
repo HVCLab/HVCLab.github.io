@@ -7,10 +7,19 @@ permalink: /news/
 # 2024
 <hr>
 
+### October (upcoming)
+- **Luzie**, **Charlotte**, and **Mara** will participate in the [NeNa conference](https://nenaconference.wordpress.com) taking place from 16.10.24 to 18.10.24 in Frankfurt, Germany. **Mara**, as part of the organizing team, is already busy preparing lots of fun activities!
+
+### September
+- **Charlotte** presents her work at this year's [AMLaP](https://amlap2024.ed.ac.uk) conference in Edinburgh, Scotland.
+- The [Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2024/) takes place in Tübingen from 26.09.24 to 27.09.24. The lab is looking forward to seeing you there!
+
+### August
+
 
 ### July
 - **Mara** participates in the [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2024/home) in Colorado, USA. She is awarded this year's ["Best New Neuromorph"](https://sites.google.com/view/telluride-2024/about-workshop/awards) title for best representing the collaborative spirit and energy of the workshop!
-- The lab visits [SAMBA](https://samba.ccns.sbg.ac.at/samba-2024/), the Salzburg Mind Brain Annual Meeting, where **Yulia** gives a talk as [invited speaker](https://samba.ccns.sbg.ac.at/samba-2024/speakers/yulia-oganian/).
+- The lab visits [SAMBA](https://samba.ccns.sbg.ac.at/samba-2024/), the Salzburg Mind Brain Annual Meeting, where **Yulia** gives a talk as [invited speaker](https://samba.ccns.sbg.ac.at/samba-2024/speakers/yulia-oganian/). **Andrey** and **Peter** each present a poster.
 
 ### June
 - For the [Neutral by Choice](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice) workshop the PI´s and PhD students from the groups in Heidelberg (Christoph Korn, Jiatong and Raphael) and Konstanz (Verena Wagner, and Daniela) meet **Yulia** and **Luzie** in Tübingen. Two days filled with presentations, discussions and getting to know each other, perfectly organized by our research assistant **Victoria**.
@@ -18,7 +27,7 @@ permalink: /news/
 ### May
 - **Andrey** represents our lab at the Conference ["Psychologie und Gehirn"](https://pug2024.de), presenting his work in a poster.
 - **Peter** starts in the lab as Postdoctoral Researcher to investigate natural speech processing in autism. Welcome!
-- **Peter** and **Charlotte** visit the [Advanced MEG/EEG Toolkit Workshop](https://www.fieldtriptoolbox.org/workshop/toolkit2024/) at Donders Institute in Nijmegen, Netherlands.
+- **Peter** and **Charlotte** attend the [Advanced MEG/EEG Toolkit Workshop](https://www.fieldtriptoolbox.org/workshop/toolkit2024/) at Donders Institute in Nijmegen, Netherlands.
 
 ### April
 - **Luzie** starts as a PhD student in the lab. Welcome!
@@ -28,7 +37,7 @@ permalink: /news/
 - **Victoria** starts as a research assistant in the lab. Welcome!
 
 ### February
-- New project in the lab: Starting in April 2024, [this project](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice), newly funded by the Heidelberg Academy of sciences, will explore empirical evidence for cognitive states of neutrality during perceptual decision making. In collaboration with [Verena Wagner](https://verenawagner.net) (Konstanz) and [Christoph Korn](http://www.dnhi-lab.org) (Heidelberg)
+- New project in the lab: Starting in April 2024, [this project](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice), newly funded by the Heidelberg Academy of sciences, will explore empirical evidence for cognitive states of neutrality during perceptual decision making. In collaboration with [Verena Wagner](https://verenawagner.net) (Konstanz) and [Christoph Korn](http://www.dnhi-lab.org) (Heidelberg).
 
 ### January
 - **Johanna** starts as a Bachelor student in the lab. Welcome!
