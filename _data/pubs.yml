@@ -4,6 +4,15 @@
 
 - header: '<h3>Published in peer-reviewed journals</h3>'
 
+
+- year: '2024'
+  type: 'published'
+  title: 'Anatomical and behavioural correlates of auditory perception in developmental dyslexia.'
+  authors: 'Qi, T., Mandelli, M. L., Pereira, C. L. W., Wellman, E., Bogley, R., Licata, A. E., Miller, Z., Tee, B.L., de Leon, J., Chang, E.F., Oganian, Y. & Gorno-Tempini, M. L.'
+  journal: '<i>Brain.</i>'
+  link: https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae298/7762235?utm_source=advanceaccess&utm_campaign=brain&utm_medium=email
+
+
 - year: '2023'
   type: 'published'
   title: 'Interictal epileptiform discharges contribute to word-finding difficulty in epilepsy through multiple cognitive mechanisms.'

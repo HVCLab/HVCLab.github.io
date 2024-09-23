@@ -12,6 +12,7 @@ permalink: /news/
 
 ### September
 - **Charlotte** presents her work at this year's [AMLaP](https://amlap2024.ed.ac.uk) conference in Edinburgh, Scotland.
+- Read **Yulia's** new publication "Anatomical and behavioural correlates of auditory perception in developmental dyslexia." in Brain, in collaboration with Ting Qi, Maria Luisa Mandelli, Christa L Watson Pereira, Emma Wellman, Rian Bogley, Abigail E Licata, Zachary Miller, Boon Lead Tee, Jessica de Leon, Edward F Chang and Maria Luisa Gorno-Tempini ([link](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae298/7762235?)).
 - The [Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2024/) takes place in Tübingen from 26.09.24 to 27.09.24. The lab is looking forward to seeing you there!
 
 ### July
