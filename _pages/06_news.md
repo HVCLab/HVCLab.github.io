@@ -8,7 +8,7 @@ permalink: /news/
 <hr>
 
 ### October
-- **Luzie**, **Charlotte**, and **Mara** will participate in the [NeNa conference](https://nenaconference.wordpress.com) taking place from 16.10.24 to 18.10.24 in Frankfurt, Germany. 
+- **Luzie**, **Charlotte**, and **Mara** participate in the [NeNa conference](https://nenaconference.wordpress.com) taking place from 16.10.24 to 18.10.24 in Frankfurt, Germany. 
 
 ### September
 - **Charlotte** presents her work at this year's [AMLaP](https://amlap2024.ed.ac.uk) conference in Edinburgh, Scotland.
