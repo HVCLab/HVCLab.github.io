@@ -191,6 +191,18 @@
     between language and cognition. Outside of her academic commitments she loves to bake and play the guitar or piano.
   photo: /images/team/victoria_pierz.jpg
 
+- name: Johanna Oefele
+  is_pi: False
+  is_current: True
+  linkedin: https://www.linkedin.com/in/johanna-oefele-b48318303/
+  position: Research Assistant
+  bio: >
+    Johanna already did her bachelors thesis in the HVC lab on speech rate normalization effects and rejoined the lab as a research assistant. 
+    Besides her interests in behavioral and neural processes, Johanna likes to be outside, doing sports like biking, 
+    running and Quadball or travelling to different countries. She speaks German, English, some French, and had language courses in 
+    Spanish and Norwegian but only remembers a few words.
+  photo: /images/team/johanna_oefele.jpg
+
 - name: Madeline Philipsen
   is_pi: False
   is_current: False

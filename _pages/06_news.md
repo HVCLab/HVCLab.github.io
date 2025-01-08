@@ -20,7 +20,7 @@ permalink: /news/
 - **Johanna**, after completing her Bachelor Thesis in the lab, continues to support us as a research assistant. Welcome back to the team!
 
 ### November
-
+- On November 8 – 13, **Andrey** attends the Communications seminar in Lautrach, Germany, organized by the Boehringer Ingelheim Fonds. The seminar comprises lectures and hands-on exercises on academic writing, rhetoric, and graphical design for scientific data visualization.
 
 ### October
 - **Luzie**, **Charlotte**, and **Mara** participate in the [NeNa conference](https://nenaconference.wordpress.com) taking place from 16.10.24 to 18.10.24 in Frankfurt, Germany. 
