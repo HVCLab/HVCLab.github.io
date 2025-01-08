@@ -4,8 +4,23 @@ nav_title: News
 title: News
 permalink: /news/
 ---
+
+# 2025
+<hr>
+
+### January
+
+
 # 2024
 <hr>
+
+### December
+- **The HVC Lab wishes everybody happy holidays!** 
+- **Yulia**, **Camila**, **Peter** and **Charlotte** participate in the [workshop](https://hanse-ias.de/fileadmin/user_upload/veranstaltungen/fachveranstaltungen/Program_Exploring_Temporal_Response_Functions_160724.pdf) "Exploring Temporal Response Functions (TRFs) in Real-World Speech Processing" at Hanse-Wissenschaftskolleg in Delmenhorst, Germany, where **Yulia** gives a talk on the cortical processing of continuous speech.
+- **Johanna**, after completing her Bachelor Thesis in the lab, continues to support us as a research assistant. Welcome back to the team!
+
+### November
+
 
 ### October
 - **Luzie**, **Charlotte**, and **Mara** participate in the [NeNa conference](https://nenaconference.wordpress.com) taking place from 16.10.24 to 18.10.24 in Frankfurt, Germany. 
