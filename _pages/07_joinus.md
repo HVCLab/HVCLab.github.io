@@ -31,5 +31,3 @@ For these positions, please contact Yulia and include the following information 
 In addition to the above information please include a research statement (max. 1 page) detailing your past research experience, future research interests, and your motivation for joining the lab, as well as the names of 2-3 references.
   - Options for PhD fellowships: [Landesgraduiertenförderung](https://uni-tuebingen.de/forschung/service/forschungsfoerderung/foerderprogramme-baden-wuerttemberg/landesgraduiertenfoerderung/), [StudienStiftung](https://www.studienstiftung.de), [BIF](https://www.bifonds.de/de/news-netzwerk/neuigkeiten-vom-bif.html)
   - Options for postdoctoral fellowships: [DFG](https://www.dfg.de), [DAAD](https://www.daad.de/de/), Marie-Curie fellowships. <br>
-
-  We will most likely be able to offer a fully funded PhD or postdoctoral researcher position starting end of 2024 or in early 2025. The formal advertisement will follow soon, but do not hesitate to contact Yulia for details. 
