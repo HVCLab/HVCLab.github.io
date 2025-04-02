@@ -9,17 +9,14 @@ body {
 
 .header_logo {
 	display: flex;
-	position: sticky;
 	background-color: #fff;
 }
 
 .header_title {
-	position: sticky;
 	background-color: #fff;
 }
 
 .header_subtitle {
-	position: sticky;
 	line-height: 0.0;
 	font-size: 1.6em;
 	padding-top: 1.2em;
@@ -32,7 +29,6 @@ body {
 }
 
 .complete_header {
-	position: sticky;
 	top: 28px;
 	background-color: #fff;
 	width: 100%;
