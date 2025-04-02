@@ -22,21 +22,7 @@
   photo: /images/team/yulia_oganian.jpg
 
 
-- name: Camila Zugarramurdi
-  is_pi: False
-  is_current: True
-  position: Visiting Researcher
-  linkedin: https://www.linkedin.com/in/camila-zugarramurdi-4867661bb/
-  scholar: https://scholar.google.com/citations?user=pUm_l1EAAAAJ&hl=en&oi=ao
-  bio: >
-    Camila is an Assistant Professor at the School of Psychology at Universidad de la República, Uruguay. 
-    She obtained her Ph.D. in Cognitive Neuroscience from the Basque Center for Cognition, Brain and Language 
-    in Spain and her Master's degree in Neuroscience from PEDECIBA in Uruguay. She is currently a visiting 
-    researcher in the lab, working on neurophysiological analysis of EEG data applied to language processing 
-    in children with dyslexia and reading difficulties. She is committed to the integration of Cognitive Science 
-    and Education until all children have quality opportunities to learn to read. She tried to learn German but 
-    gave up after consistently failing to order a cup of coffee.
-  photo: /images/team/camila_zugarramurdi.jpg
+
 
 
 
@@ -134,7 +120,6 @@
   photo: /images/team/luzie_kallfass.jpg
 
 
-
 - name: Lea-Marie Tewald
   is_pi: False
   is_current: True
@@ -149,6 +134,19 @@
     jogging tracks across Tübingen and playing the flute in different orchestras. In addition to her native German, she speaks English, 
     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
   photo: /images/team/lea-marie_tewald.jpeg
+
+
+- name: Lilly Fimpel
+  is_pi: False
+  is_current: True
+  position: Bachelor Student
+  bio: >
+    Lilly is studying Educational Science and Psychology at the University of Tübingen and is currently doing her internship in the lab. 
+    Just like her bachelors programme, she likes looking at topics relevant for educational psychology from an interdisciplinary perspective, 
+    with this internship allowing her to learn more about different measures used for studying language comprehension.
+    In her free time, Lilly enjoys dancing different styles and trying to finally finish some of her writing projects.
+  photo: /images/team/lilly_fimpel.jpg
+
 
 
 - name: Leon Ilge
