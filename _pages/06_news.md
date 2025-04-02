@@ -8,7 +8,21 @@ permalink: /news/
 # 2025
 <hr>
 
+### April
+- **Chang** starts as a PhD student in the lab. Great to have you onboard!
+- **Diana** starts her Master Thesis project in the lab. Welcome!
+
+
+### March
+- **Lilly** joins us for her 4-month internship. Welcome!
+
+
+### February
+
+
+
 ### January
+- **Eleonora Beier** joins us for three months as a visiting researcher. Welcome!
 
 
 # 2024
