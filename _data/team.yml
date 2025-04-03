@@ -120,6 +120,22 @@
   photo: /images/team/luzie_kallfass.jpg
 
 
+- name: Chang Liu
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Chang completed a B.A. in General Linguistics and an M.Sc. in Cognitive Science at the University of Tübingen. 
+    He is passionate about the commonalities and differences between languages, the intricate structures of speech,
+    and technologies that enable the discovery of patterns in language and cognition. Viewing linguistic data as the 
+    tip of deeper cognitive processes, he aims to bridge linguistics and neuroscience to gain insights into language processing. 
+    He is currently part of the collaborative research center "Robust Vision", where he compares visual and auditory processing 
+    in artificial neural networks and in the human brain. Outside of the lab, he enjoys cooking and making pickles. 
+    Chang speaks Chinese, English, and German, and possesses a reading knowledge of Japanese.
+  photo: /images/team/chang_liu.jpg
+
+
+
 - name: Lea-Marie Tewald
   is_pi: False
   is_current: True
