@@ -131,7 +131,6 @@
   photo: /images/team/chang_liu.jpg
 
 
-
 - name: Lea-Marie Tewald
   is_pi: False
   is_current: True
@@ -148,19 +147,19 @@
   photo: /images/team/lea-marie_tewald.jpeg
 
   - name: Carla Ludig
-  is_pi: False
-  is_current: True
-  position: Master Student
-  bio: >
-    Carla joined the lab as a research assistant and is now beginning her master’s thesis with us. She’s currently 
-    finishing her Master of Neurobiology in Tübingen, after starting out in Biomedical Science back in Marburg. 
-    While most of her past experience has been in the wet lab, she’s now diving into the behavioral side of neuroscience 
-    and is excited to learn more about the aspects of human behavior connected to speech and perception. 
-    Her current project takes a closer look at what causes people to take turns in conversations. Outside the lab, 
-    Carla enjoys hiking and exploring the forests around Tübingen and tries and fails regularly at registering in a 
-    course in the university sports program. In her free time, she also nurtures her creative side through painting and 
-    making linocuts.
-  photo: /images/team/carla_ludig.jpeg
+    is_pi: False
+    is_current: True
+    position: Master Student
+    bio: >
+      Carla joined the lab as a research assistant and is now beginning her master’s thesis with us. She’s currently 
+      finishing her Master of Neurobiology in Tübingen, after starting out in Biomedical Science back in Marburg. 
+      While most of her past experience has been in the wet lab, she’s now diving into the behavioral side of neuroscience 
+      and is excited to learn more about the aspects of human behavior connected to speech and perception. 
+      Her current project takes a closer look at what causes people to take turns in conversations. Outside the lab, 
+      Carla enjoys hiking and exploring the forests around Tübingen and tries and fails regularly at registering in a 
+      course in the university sports program. In her free time, she also nurtures her creative side through painting and 
+      making linocuts.
+    photo: /images/team/carla_ludig.jpeg
 
 
 - name: Lilly Fimpel
