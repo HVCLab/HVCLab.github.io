@@ -161,6 +161,23 @@
     making linocuts.
   photo: /images/team/carla_ludig.jpeg
 
+- name: Diana Stoll
+  is_pi: False
+  is_current: True
+  position: Master Student
+  bio: >
+    Diana began her academic path with a bachelor's degree in Biology, writing her thesis in a cell biology lab. 
+    From there, she made a big leap into Neurobiology for her master’s studies, where she is now wrapping up her degree. 
+    Wanting to explore more than just wet lab work, she chose to do her master’s thesis in the HVC lab, 
+    focusing on behavioral experiments that investigate how changes in amplitude affect the perception of frequency shifts in sounds. 
+    A big reason why she decided to join the HVC lab was her interest in how language shapes our perception 
+    of the world — something she has thought a lot about growing up bilingual. 
+    Outside the lab, Diana enjoys relaxed hikes, crocheting, and curling up in her favorite armchair 
+    with a good book and a cup of tea. She speaks German, Russian, English, and a bit of French.
+
+  photo: /images/team/diana_stoll.jpg
+
+
 
 - name: Lilly Fimpel
   is_pi: False
