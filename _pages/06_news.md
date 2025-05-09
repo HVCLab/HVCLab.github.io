@@ -8,12 +8,15 @@ permalink: /news/
 # 2025
 <hr>
 
+
 ### April
+- **Charlotte**, **Andrey** and **Mara** present their current work as posters for the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) at [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en). 
 - **Chang** starts as a PhD student in the lab. Great to have you onboard!
 - **Diana** starts her Master Thesis project in the lab. Welcome!
 
 
 ### March
+- **Charlotte**, **Andrey** and **Mara** join a 3-day retreat of the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) in Kloster Heiligkreuztal for a grant writing workshop.
 - **Lilly** joins us for her 4-month internship. Welcome!
 
 
