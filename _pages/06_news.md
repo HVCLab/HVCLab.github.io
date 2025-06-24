@@ -8,6 +8,13 @@ permalink: /news/
 # 2025
 <hr>
 
+### June
+- **Charlotte** participates in the [20th Rhythm Perception and Production Workshop](https://www.rppw.org) in Jyväskylä, Finland, presenting her work in form of a talk.
+
+
+### May
+
+
 
 ### April
 - **Charlotte**, **Andrey** and **Mara** present their current work as posters for the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) at [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en). 
