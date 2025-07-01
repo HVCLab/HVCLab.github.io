@@ -223,11 +223,16 @@
   is_current: True
   position: Research Assistant
   bio: >
-    Victoria is a student of Computational Linguistics at the University of Tübingen. Her interest in languages started at a 
-    young age as she grew up bilingual and continued learning languages as a hobby. While her studies deepened her interest in 
-    speech processing and natural language understanding, Victoria's passion for understanding the human brain led her to join 
-    the hvc lab as a research assistant. Here, she applies her knowledge in computational linguistics to explore the connections 
-    between language and cognition. Outside of her academic commitments she loves to bake and play the guitar or piano.
+    Victoria is a masters student of Cognitive Science at the University of Tübingen 
+    who did her bachelors in computational linguistics. Her interest in languages started 
+    at a young age as she grew up bilingual and continued learning languages as a hobby. 
+    While her studies deepened her interest in speech processing and natural language 
+    understanding, Victoria's passion for understanding the human brain led her to join 
+    the HVC lab as a research assistant. 
+    Here, she applies her knowledge in computational linguistics to explore the connections 
+    between language and cognition. Because of this experience she decided to do her masters 
+    in cognitive science to dive deeper into cognitive research. Outside of her academic 
+    commitments she loves to bake, knit and play the guitar or piano.
   photo: /images/team/victoria_pierz.jpg
 
 - name: Johanna Oefele
