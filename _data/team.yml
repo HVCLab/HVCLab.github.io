@@ -211,12 +211,13 @@
   is_current: True
   position: Research Assistant
   bio: >
-    Joel is an undergraduate student at the University of Tübingen studying linguistics and English. His research interests 
-    primarily revolve around language contact and historical linguistics. Joel's passion for these subjects ignited during 
-    his extended stays in Norway, spanning over two years, during which he dedicated himself to learning and understanding 
-    the Norwegian language and its relation to its Scandinavian relatives.
-    Outside of university, Joel's interests focus mainly on making music and sports.
+    Joel is a Master's student in Cognitive Science at the University of Tübingen. He completed his Bachelor's degree in General Linguistics and English, 
+    where he developed a strong interest in language contact, perception of language varieties, and historical linguistics. 
+    His fascination with these topics was sparked during extended stays in Norway, spanning over two years, where he immersed himself in learning Norwegian. 
+    He further deepened his interest in regional varieties through his Bachelor's thesis on the Swabian dialect. 
+    Outside of academia, Joel is passionate about making music and enjoys staying active through sports.
   photo: /images/team/joel_baisch.jpg
+
 
 - name: Victoria Pierz
   is_pi: False
