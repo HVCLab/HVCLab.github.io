@@ -182,7 +182,7 @@
 - name: Lilly Fimpel
   is_pi: False
   is_current: True
-  position: Bachelor Student
+  position: Research Assistant
   bio: >
     Lilly is studying Educational Science and Psychology at the University of Tübingen and is currently doing her internship in the lab. 
     Just like her bachelors programme, she likes looking at topics relevant for educational psychology from an interdisciplinary perspective, 
@@ -194,7 +194,7 @@
 
 - name: Leon Ilge
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Assistant
   bio: >
     Leon recently decided to say good bye to teaching and the Bachelor of Education. He joined the lab for his bachelor 
