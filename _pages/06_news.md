@@ -8,6 +8,14 @@ permalink: /news/
 # 2025
 <hr>
 
+### September
+- **Yulia** and **Mara** join the 
+
+### August
+- **Yulia**, **Andrey**, **Chang**, **Victoria** and **Mara** visit the [Cognitive Computational Neuroscience Conference (CCN)](https://2025.ccneuro.org) in Amsterdam, Netherlands, where **Andrey** and **Mara** presented their work in form of a poster.
+
+### July
+
 ### June
 - **Charlotte** participates in the [20th Rhythm Perception and Production Workshop](https://www.rppw.org) in Jyväskylä, Finland, presenting her work in form of a talk.
 
