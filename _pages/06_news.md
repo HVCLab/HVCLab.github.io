@@ -10,7 +10,7 @@ permalink: /news/
 
 ### October (upcoming)
 - **Mara** is invited as a speaker to the [Tübingen Systems Neuroscience Symposium](https://meg.medizin.uni-tuebingen.de/sns_2025/index.php). Join her talk with the title "Timescale-invariant processing of durational information in speech" on 06.10. at 10am!
-- **Charlotte** will join the [Timing Research Forum 4](https://sites.google.com/view/trf4tokyo/home) in Tokyo, Japan, where she will present her work in form of a poster.
+- **Charlotte** will join the [Timing Research Forum 4](https://sites.google.com/view/trf4tokyo/home) in Tokyo, Japan. Come to discuss her poster #36 at Poster Session 3 on Sunday, 19.10.!
 - The [NeNa conference](https://nenaconference.github.io) will be taking place in Heidelberg from 15-17.10. this year, bringing together PhD and master students from Tübingen and around. **Mara** and **Luzie** are part of the organizing team. Don't miss out on the last spots!
 
 ### September (upcoming)
