@@ -18,15 +18,19 @@ permalink: /news/
 - **Peter**, **Luzie**, **Lea** and **Andrey** join the [International Conference on Cognitive Neuroscience](https://icon2025.pt), in Porto, Portugal, where they will each present their work in form of a poster.
 - [Dr. Camila Zugarramurdi](https://linktr.ee/camilazuga) will be staying and doing research with us in September. Welcome back!
 - [Dr. Galit Agmon](https://sites.biu.ac.il/en/computational-neurolinguistics-lab) will be visiting us and will present her work in form of a talk.
+- **Victoria** joins the [International Interdisciplinaty Computational Cognitive Science Summer School](https://www.iiccsss.org) in Darmstadt, Germany, where she also is part of the organizing team.
 
 ### August
 - **Yulia**, **Andrey**, **Chang**, **Victoria** and **Mara** visit the [Cognitive Computational Neuroscience Conference (CCN)](https://2025.ccneuro.org) in Amsterdam, Netherlands, where **Andrey** and **Mara** presented their work in form of a poster.
 
 
 ### July
+- **Peter** joins the [Computational Psychiatry Conference](https://www.kyb.tuebingen.mpg.de/817894/computational-psychiatry-conference-2025) taking place here in Tübingen. 
+- **Yulia**, **Luzie** and **Victoria** contribute to the Summer School “Neutral by Choice: Cognitive Neuroscience Meets Epistemology” at the HU Berlin
 
 ### June
 - **Charlotte** participates in the [20th Rhythm Perception and Production Workshop](https://www.rppw.org) in Jyväskylä, Finland, presenting her work in form of a talk.
+- **Yulia** and **Peter** publish a feature in [Neuroforum](https://nwg-info.de/sites/nwg-info.de/files/media/pdf/neuroforum/Neuroforum_02-2025.pdf), titled "Neurophysiologie der Sprachverarbeitung: Ein Blick ins Gehirn".
 
 
 ### May
