@@ -14,7 +14,7 @@ permalink: /news/
 - The [NeNa conference](https://nenaconference.github.io) will be taking place in Heidelberg from 15-17.10. this year, bringing together PhD and master students from Tübingen and around. **Mara** and **Luzie** are part of the organizing team. Don't miss out on the last spots!
 
 ### September (upcoming)
-- **Yulia** and **Mara** join the [International Conference on Auditory Cortex](https://www.maastrichtuniversity.nl/icac2025/international-conference-auditory-cortex) in Maastricht, Netherlands. Come by Mara's posters #193 on Tuesday and #297 on Thursday!
+- **Yulia** and **Mara** join the [International Conference on Auditory Cortex](https://www.maastrichtuniversity.nl/icac2025/international-conference-auditory-cortex) in Maastricht, Netherlands. Come by our posters #193 on Tuesday and #297 on Thursday!
 - **Peter**, **Luzie**, **Lea** and **Andrey** join the [International Conference on Cognitive Neuroscience](https://icon2025.pt), in Porto, Portugal, where they will each present their work in form of a poster.
 - [Dr. Camila Zugarramurdi](https://linktr.ee/camilazuga) will be staying and doing research with us in September. Welcome back!
 - [Dr. Galit Agmon](https://sites.biu.ac.il/en/computational-neurolinguistics-lab) will be visiting us and will present her work in form of a talk.
