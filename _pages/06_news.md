@@ -11,14 +11,14 @@ permalink: /news/
 ### October (upcoming)
 - **Mara** is invited as a speaker to the [Tübingen Systems Neuroscience Symposium](https://meg.medizin.uni-tuebingen.de/sns_2025/index.php). Join her talk with the title "Timescale-invariant processing of durational information in speech" on 06.10. at 10am!
 - **Charlotte** will join the [Timing Research Forum 4](https://sites.google.com/view/trf4tokyo/home) in Tokyo, Japan. Come to discuss her poster #36 at Poster Session 3 on Sunday, 19.10.!
-- The [NeNa conference](https://nenaconference.github.io) will be taking place in Heidelberg from 15-17.10. this year, bringing together PhD and master students from Tübingen and around. **Mara** and **Luzie** are part of the organizing team. Don't miss out on the last spots!
+- The [NeNa conference](https://nenaconference.github.io) will be taking place in Heidelberg from 15-17.10. this year, bringing together PhD and master students from Tübingen and around. **Mara** and **Luzie** are part of the organizing team.
 
-### September (upcoming)
-- **Yulia** and **Mara** join the [International Conference on Auditory Cortex](https://www.maastrichtuniversity.nl/icac2025/international-conference-auditory-cortex) in Maastricht, Netherlands. Come by our posters #193 on Tuesday, and #297 as well as #307 on Thursday!
+### September
+- **Yulia** and **Mara** join the [International Conference on Auditory Cortex](https://www.maastrichtuniversity.nl/icac2025/international-conference-auditory-cortex) in Maastricht, Netherlands.
 - **Peter**, **Luzie**, **Lea** and **Andrey** join the [International Conference on Cognitive Neuroscience](https://icon2025.pt), in Porto, Portugal, where they will each present their work in form of a poster.
-- [Dr. Camila Zugarramurdi](https://linktr.ee/camilazuga) will be staying and doing research with us in September. Welcome back!
-- [Dr. Galit Agmon](https://sites.biu.ac.il/en/computational-neurolinguistics-lab) will be visiting us and will present her work in form of a talk.
-- **Victoria** joins the [International Interdisciplinaty Computational Cognitive Science Summer School](https://www.iiccsss.org) in Darmstadt, Germany, where she also is part of the organizing team.
+- [Dr. Camila Zugarramurdi](https://linktr.ee/camilazuga) stays at HVC lab and does research with us in September. Welcome back!
+- [Dr. Galit Agmon](https://sites.biu.ac.il/en/computational-neurolinguistics-lab) visits us and presents her work in form of a talk.
+- **Victoria** joins the [International Interdisciplinary Computational Cognitive Science Summer School](https://www.iiccsss.org) in Darmstadt, Germany, where she also is part of the organizing team.
 
 ### August
 - **Yulia**, **Andrey**, **Chang**, **Victoria** and **Mara** visit the [Cognitive Computational Neuroscience Conference (CCN)](https://2025.ccneuro.org) in Amsterdam, Netherlands, where **Andrey** and **Mara** presented their work in form of a poster.
