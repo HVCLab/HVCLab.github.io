@@ -9,6 +9,7 @@ permalink: /news/
 <hr>
 
 ### October
+- **Lisa** starts her Bachelor Thesis project in the lab. Welcome!
 - **Peter**, **Luzie**, **Andrey** and **Mara** present their work as posters at the [Tübingen Systems Neuroscience Symposium](https://meg.medizin.uni-tuebingen.de/sns_2025/index.php)
 - **Mara** speaks at the [Tübingen Systems Neuroscience Symposium](https://meg.medizin.uni-tuebingen.de/sns_2025/index.php), presenting her talk with title "Timescale-invariant processing of durational information in speech".
 - **Charlotte** joins the [Timing Research Forum 4](https://sites.google.com/view/trf4tokyo/home) in Tokyo, Japan, presenting her work in form of a poster
