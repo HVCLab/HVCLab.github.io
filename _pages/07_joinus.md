@@ -10,7 +10,7 @@ permalink: /joinus/
 <br>
 ### Open positions
 
-- We are looking for PhD students and postdoctoral researchers to join the lab. The positions are fully funded. See [here](../uploaded_files/2024-10-25-postdoc_phd.html) for details.
+- We are looking for a postdoctoral researcher to join the lab. The positions is fully funded. See [here](../uploaded_files/2025-11-03-postdoc.html) for details.
 
 <br>
 <hr>
