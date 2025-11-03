@@ -179,6 +179,17 @@
   photo: /images/team/diana_stoll.jpg
 
 
+- name: Lisa Bauknecht
+  is_pi: False
+  is_current: True
+  position: Bachelor Student
+  bio: >
+    Lisa is currently finishing her bachelor's degree in Cognitive Science at the University of Tübingen. 
+    She joined the HVC lab to do her thesis with us on acoustic stress perception and processing, 
+    and its connection with social-pragmatic communication. In her free time, Lisa enjoys traveling, sports and board game nights.
+
+  photo: /images/team/lisa_bauknecht.jpg
+
 
 - name: Lilly Fimpel
   is_pi: False
