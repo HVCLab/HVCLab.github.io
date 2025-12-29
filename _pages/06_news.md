@@ -8,6 +8,15 @@ permalink: /news/
 # 2025
 <hr>
 
+### December
+- **Happy holidays to everyone from the HVC Lab!**
+- Lab Christmas Brunch: It has become a tradition already, including the special waffle recipe!
+- [Prof. Dr. Tamara Rathcke](https://tamara-rathcke.github.io) visits us and presents her work in form of a talk.
+- **Luzie** mentors three Neurobiology students for a three-week research internship.
+
+### November
+- Start-of-the-academic-year team-building meeting. Winter semester, let's go!
+
 ### October
 - **Lisa** starts her Bachelor Thesis project in the lab. Welcome!
 - **Peter**, **Luzie**, **Andrey** and **Mara** present their work as posters at the [Tübingen Systems Neuroscience Symposium](https://meg.medizin.uni-tuebingen.de/sns_2025/index.php)
