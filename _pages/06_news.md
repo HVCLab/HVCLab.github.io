@@ -11,8 +11,9 @@ permalink: /news/
 ### December
 - **Happy holidays to everyone from the HVC Lab!**
 - Lab Christmas Brunch: It has become a tradition already, including the special waffle recipe!
-- [Prof. Dr. Tamara Rathcke](https://tamara-rathcke.github.io) visits us and presents her work in form of a talk.
-- **Luzie** mentors three Neurobiology students for a three-week research internship.
+- [Prof. Dr. Tamara Rathcke](https://tamara-rathcke.github.io) visits us and presents her work at the cognitive science colloquium.
+- **Luzie** mentors three M.A. Neurobiology students as part of their a three-week general research internship.
+- **Diana** submitted her thesis (M.Sc. Neurobiology), congrats! She is staying with us until the end of the semester to continue her project.
 
 ### November
 - Start-of-the-academic-year team-building meeting. Winter semester, let's go!
