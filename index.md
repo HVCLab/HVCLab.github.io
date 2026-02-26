@@ -2,13 +2,16 @@
 layout: default
 ---
 
-<h1>Welcome to the HVC Lab!</h1>
-Starting out in November 2021, we are a growing research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
+<h1>Welcome to the Oganian Lab for Human Verbal Communication!</h1>
+We study the cognitive, neural, and computational mechanisms that support audition, speech and language processing and verbal communication. We believe that the key to understanding the human language faculty is to study speech and language processing in rich, continuous and natural materials, where they usually occur. A key aspect of our work is to understand how speech and language processing utilizes contextual information to extract meaningful information from (sometimes noisy and incomplete) auditory inputs.
 <br/><br/>
-We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.
+We use behavioural and electrophysiological (M/EEG, intracranial EEG) measures in humans.
 <br/><br/>
-We are located in the Centre for Integrative Neuroscience, Tübingen, Germany.
+A key aspect of our work is to transfer our insights to clinical profiles, such as Autism Spectrum Disorders, Developmental Dyslexia. 
 <br/><br/>
+We are part of the Center for Integrative Neuroscience and the Cognitive Science Center Tübingen.
+<br/><br/>
+
 
 {% include slideshow.html %}
 
