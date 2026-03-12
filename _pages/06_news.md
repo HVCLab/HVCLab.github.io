@@ -4,6 +4,17 @@ nav_title: News
 title: News
 permalink: /news/
 ---
+# 2026
+
+<hr>
+
+### January
+
+### February
+
+### March
+- **Lena** starts in the lab as Postdoctoral Researcher. Welcome!
+
 
 # 2025
 <hr>

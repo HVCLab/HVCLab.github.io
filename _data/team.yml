@@ -250,7 +250,7 @@
 
 - name: Johanna Oefele
   is_pi: False
-  is_current: True
+  is_current: False
   linkedin: https://www.linkedin.com/in/johanna-oefele-b48318303/
   position: Research Assistant
   bio: >
