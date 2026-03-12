@@ -14,6 +14,7 @@ permalink: /news/
 
 ### March
 - **Lena** starts in the lab as Postdoctoral Researcher. Welcome!
+- **Andrey** and **Chang** join the 3-day retreat of the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de).
 
 
 # 2025
