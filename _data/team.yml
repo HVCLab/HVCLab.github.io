@@ -164,77 +164,6 @@
   photo: /images/team/lea-marie_tewald.jpeg
 
 
-- name: Carla Ludig
-  is_pi: False
-  is_current: False
-  position: Master Student
-  bio: >
-    Carla joined the lab as a research assistant and is now beginning her master’s thesis with us. She’s currently 
-    finishing her Master of Neurobiology in Tübingen, after starting out in Biomedical Science back in Marburg. 
-    While most of her past experience has been in the wet lab, she’s now diving into the behavioral side of neuroscience 
-    and is excited to learn more about the aspects of human behavior connected to speech and perception. 
-    Her current project takes a closer look at what causes people to take turns in conversations. Outside the lab, 
-    Carla enjoys hiking and exploring the forests around Tübingen and tries and fails regularly at registering in a 
-    course in the university sports program. In her free time, she also nurtures her creative side through painting and 
-    making linocuts.
-  photo: /images/team/carla_ludig.jpeg
-
-- name: Diana Stoll
-  is_pi: False
-  is_current: False
-  position: Master Student
-  bio: >
-    Diana began her academic path with a bachelor's degree in Biology, writing her thesis in a cell biology lab. 
-    From there, she made a big leap into Neurobiology for her master’s studies, where she is now wrapping up her degree. 
-    Wanting to explore more than just wet lab work, she chose to do her master’s thesis in the HVC lab, 
-    focusing on behavioral experiments that investigate how changes in amplitude affect the perception of frequency shifts in sounds. 
-    A big reason why she decided to join the HVC lab was her interest in how language shapes our perception 
-    of the world — something she has thought a lot about growing up bilingual. 
-    Outside the lab, Diana enjoys relaxed hikes, crocheting, and curling up in her favorite armchair 
-    with a good book and a cup of tea. She speaks German, Russian, English, and a bit of French.
-
-  photo: /images/team/diana_stoll.jpg
-
-
-- name: Lisa Bauknecht
-  is_pi: False
-  is_current: False
-  position: Bachelor Student
-  bio: >
-    Lisa is currently finishing her bachelor's degree in Cognitive Science at the University of Tübingen. 
-    She joined the HVC lab to do her thesis with us on acoustic stress perception and processing, 
-    and its connection with social-pragmatic communication. In her free time, Lisa enjoys traveling, sports and board game nights.
-
-  photo: /images/team/lisa_bauknecht.jpg
-
-
-- name: Lilly Fimpel
-  is_pi: False
-  is_current: False
-  position: Research Assistant
-  bio: >
-    Lilly is studying Educational Science and Psychology at the University of Tübingen and is currently doing her internship in the lab. 
-    Just like her bachelors programme, she likes looking at topics relevant for educational psychology from an interdisciplinary perspective, 
-    with this internship allowing her to learn more about different measures used for studying language comprehension.
-    In her free time, Lilly enjoys dancing different styles and trying to finally finish some of her writing projects.
-  photo: /images/team/lilly_fimpel.jpg
-
-
-
-- name: Leon Ilge
-  is_pi: False
-  is_current: False
-  position: Research Assistant
-  bio: >
-    Leon recently decided to say good bye to teaching and the Bachelor of Education. He joined the lab for his bachelor 
-    thesis on sound complexity and perceptual onsets for a smooth transitioning into the MSc in either neurobiology or 
-    cognitive science. Majoring in Biology and English situate him at the intersection between science and humanities which 
-    fostered strong cross-disciplinary critical thinking and a solid foundation for working in very interdisciplinary fields. 
-    He also helps out at the Neuroscience Student Lab taking care of the sheep brain but he cannot wait to get his hands on 
-    living material.
-  photo: /images/team/leon_ilge.jpg
-
-
 - name: Joel Baisch
   is_pi: False
   is_current: True
@@ -251,7 +180,7 @@
 - name: Victoria Pierz
   is_pi: False
   is_current: True
-  position: Research Assistant
+  position: Master Student
   bio: >
     Victoria is a masters student of Cognitive Science at the University of Tübingen 
     who did her bachelors in computational linguistics. Her interest in languages started 
@@ -296,3 +225,31 @@
   is_pi: False
   is_current: False
   position: Master Student
+
+- name: Leon Ilge
+  is_pi: False
+  is_current: False
+  position: Research Assistant
+
+- name: Carla Ludig
+  is_pi: False
+  is_current: False
+  position: Master Student
+
+- name: Diana Stoll
+  is_pi: False
+  is_current: False
+  position: Master Student
+
+- name: Lisa Bauknecht
+  is_pi: False
+  is_current: False
+  position: Bachelor Student
+
+- name: Lilly Fimpel
+  is_pi: False
+  is_current: False
+  position: Research Assistant
+
+
+
