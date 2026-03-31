@@ -43,6 +43,22 @@
   photo: /images/team/peter_bang.jpg
 
 
+- name: Lena Henke
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Researcher
+  researchgate: https://www.researchgate.net/profile/Lena-Henke-2
+  bio: >
+    Lena is a postdoctoral researcher between the HVC lab and the Dynamic Cognition Group at the MPI for Biological Cybernetics. 
+    After completing a B.Sc. in Cognitive Science and a M.Sc. in Clinical Linguistics, she did her PhD at the MPI for Human 
+    Cognitive and Brain Sciences in Leipzig. Her prior research has focussed on the role of low-frequency cortical activity as 
+    temporal constraint on language processing. Generally, she is interested in how neural mechanisms influence the perception 
+    of the world around us. In the labs, she now aims at investigating how temporal structure and predictive timing support 
+    (natural) speech processing. In her free time, Lena enjoys doing sports and is particularly excited to discover
+     the surroundings of Tübingen by bike. Lena speaks German, English and French.
+  photo: /images/team/lena_henke.png
+
+
 - name: Charlotte Mock
   is_pi: False
   is_current: True
@@ -147,9 +163,10 @@
     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
   photo: /images/team/lea-marie_tewald.jpeg
 
+
 - name: Carla Ludig
   is_pi: False
-  is_current: True
+  is_current: False
   position: Master Student
   bio: >
     Carla joined the lab as a research assistant and is now beginning her master’s thesis with us. She’s currently 
@@ -164,7 +181,7 @@
 
 - name: Diana Stoll
   is_pi: False
-  is_current: True
+  is_current: False
   position: Master Student
   bio: >
     Diana began her academic path with a bachelor's degree in Biology, writing her thesis in a cell biology lab. 
@@ -181,7 +198,7 @@
 
 - name: Lisa Bauknecht
   is_pi: False
-  is_current: True
+  is_current: False
   position: Bachelor Student
   bio: >
     Lisa is currently finishing her bachelor's degree in Cognitive Science at the University of Tübingen. 
@@ -193,7 +210,7 @@
 
 - name: Lilly Fimpel
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Assistant
   bio: >
     Lilly is studying Educational Science and Psychology at the University of Tübingen and is currently doing her internship in the lab. 
