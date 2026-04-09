@@ -8,13 +8,20 @@ permalink: /news/
 
 <hr>
 
-### January
-
-### February
+### April
+- Check out **Yulia's** latest publication "Testing the role of temporal attention in speech: Pre-target alpha predicts memory encoding rather than effects of linguistic focus.", co-authored with Eleonora J. Beier, Assaf Breska, Lee M. Miller, George R. Mangun and Tamara Y. Swaab ([link](https://www.jneurosci.org/content/early/2026/04/01/JNEUROSCI.2099-25.2026)).
+- **Chang**, **Charlotte**, **Andrey** and **Mara** will present their current work as posters for the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) at [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en). 
 
 ### March
 - **Lena** starts in the lab as Postdoctoral Researcher. Welcome!
 - **Andrey** and **Chang** join the 3-day retreat of the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de).
+- At the end of this month, we say goodbye to four team members who have successfully completed their work with us: **Carla** and **Diana** (Master’s projects), **Lilly** (research assistant), and **Lisa** (bachelor’s thesis). Thank you for your great work!
+
+### February
+
+
+### January
+
 
 
 # 2025
