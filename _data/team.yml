@@ -193,6 +193,20 @@
     in cognitive science to dive deeper into cognitive research. Outside of her academic 
     commitments she loves to bake, knit and play the guitar or piano.
   photo: /images/team/victoria_pierz.jpg
+, 
+
+- name: Patricia Schlegel
+  is_pi: False
+  is_current: True
+  position: Master Student
+  bio: >
+    Patricia is a Master's student in Cognitive Science and Computer Science at the University of Tübingen. 
+    During her Bachelor's in Cognitive Science, she developed a strong interest in neurobiology, especially 
+    in understanding how the brain processes and represents information. To further explore how and where 
+    language is processed in the brain, she joined the HVC lab, where she is currently working on her Master's thesis.
+    In her free time, Patricia enjoys baking, reading and dancing.
+  photo: /images/team/patricia_schlegel.jpg
+
 
 - name: Johanna Oefele
   is_pi: False
