@@ -17,7 +17,7 @@ permalink: /news/
 - **Lena** starts in the lab as Postdoctoral Researcher. Welcome!
 - **Andrey** and **Chang** join the 3-day retreat of the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de).
 - At the end of this month, we say goodbye to four team members who have successfully completed their work with us: **Carla** and **Diana** (Master’s projects), **Lilly** (research assistant), and **Lisa** (bachelor’s thesis). Thank you for your great work!
-**Patricia** starts her Master Thesis project in the lab. Welcome!
+- **Patricia** starts her Master Thesis project in the lab. Welcome!
 
 ### February
 
