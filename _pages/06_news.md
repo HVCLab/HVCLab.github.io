@@ -8,10 +8,16 @@ permalink: /news/
 
 <hr>
 
+### June (upcominng)
+- [Psychologie & Gehirn 2026](https://pug2026.org) in Heidelberg is coming up soon! **Yulia** and **Mara** will lead the symposium “Multi-level Context Effects in Auditory Perception and Speech Comprehension” on Thursday, June 4, 2026 (8:30–10:00am). **Luzie** and **Chang** will also present posters at the conference. Come join us for the talks and discussion!
+
+### May
+- **Yulia** has published a new preprint, now available on bioRxiv — read it [here](https://www.biorxiv.org/content/10.64898/2026.05.04.722740v1)! This work was completed in collaboration with Camila Zugarramurdi, Eleonora J. Beier, Katsuaki Kojima, Stephanie Powell, Jonathan Liu, Kristin Davis, Kylie Korsnack, Brett R. Myers, Miriam D. Lense, Srishti Nayak, Reyna L. Gordon, and Cyrille L. Magne. 
+- **Andrey** presents his work in form of a poster at this year's [NeuroAI Symposium](https://neuroaisymposium.com) in Tübingen.
 
 ### April
 - Check out **Yulia's** latest publication "Testing the role of temporal attention in speech: Pre-target alpha predicts memory encoding rather than effects of linguistic focus.", co-authored with Eleonora J. Beier, Assaf Breska, Lee M. Miller, George R. Mangun and Tamara Y. Swaab ([link](https://www.jneurosci.org/content/early/2026/04/01/JNEUROSCI.2099-25.2026)).
-- **Chang**, **Charlotte**, **Andrey** and **Mara** will present their current work as posters for the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) at [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en). 
+- **Chang**, **Charlotte** and **Andrey** present their current work as posters for the [International Max Planck Research School (IMPRS)](https://imprs-mmfd.tuebingen.mpg.de) at [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en). 
 
 ### March
 - **Lena** starts in the lab as Postdoctoral Researcher. Welcome!
