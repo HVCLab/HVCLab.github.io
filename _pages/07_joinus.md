@@ -10,7 +10,7 @@ permalink: /joinus/
 <br>
 ### Open positions
 
-We have open [Master's Thesis Projects](../uploaded_files/Ausschreibung_Master_HVC.pdf)!
+We have open [Master Thesis Projects](../uploaded_files/Ausschreibung_Master_HVC.pdf)!
 
 <br>
 <hr>
