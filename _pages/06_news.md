@@ -8,8 +8,11 @@ permalink: /news/
 
 <hr>
 
-### June (upcominng)
-- [Psychologie & Gehirn 2026](https://pug2026.org) in Heidelberg is coming up soon! **Yulia** and **Mara** will lead the symposium “Multi-level Context Effects in Auditory Perception and Speech Comprehension” on Thursday, June 4, 2026 (8:30–10:00am). **Luzie** and **Chang** will also present posters at the conference. Come join us for the talks and discussion!
+### July
+- Dr. Jiajie Zou visits us and presents his work in form of a talk.
+
+### June
+- [Psychologie & Gehirn 2026](https://pug2026.org) in Heidelberg. **Yulia** and **Mara** lead the symposium “Multi-level Context Effects in Auditory Perception and Speech Comprehension”. **Luzie** and **Chang** also present posters at the conference.
 
 ### May
 - **Yulia** has published a new preprint, now available on bioRxiv — read it [here](https://www.biorxiv.org/content/10.64898/2026.05.04.722740v1)! This work was completed in collaboration with Camila Zugarramurdi, Eleonora J. Beier, Katsuaki Kojima, Stephanie Powell, Jonathan Liu, Kristin Davis, Kylie Korsnack, Brett R. Myers, Miriam D. Lense, Srishti Nayak, Reyna L. Gordon, and Cyrille L. Magne. 
