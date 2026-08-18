@@ -8,6 +8,9 @@ permalink: /news/
 
 <hr>
 
+### August
+- **Chang** presents a poster and a spotlight talk at [Analytical Connectionism 2026](https://www.analytical-connectionism.net/school/2026/) in Gothenburg, Sweden.
+
 ### July
 - Dr. Jiajie Zou visits us and presents his work in form of a talk.
 
