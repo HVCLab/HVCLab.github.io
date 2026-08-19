@@ -11,6 +11,7 @@ permalink: /news/
 ### August
 - **Chang** presents a poster and a spotlight talk at [Analytical Connectionism 2026](https://www.analytical-connectionism.net/school/2026/) in Gothenburg, Sweden.
 - **Andrey** joins the [Cognitive Computational Neuroscience Conference](https://2026.ccneuro.org) in New York, USA, presenting his work titled "Word meaning, not form statistics, is essential for predictive language processing" in form of a poster.
+- **Victoria** co-organizes and participates in the [International Interdisciplinary Computational Cognitive Science Summer School](https://www.iiccsss.org), taking place in Tübingen this year.
 
 ### July
 - Dr. Jiajie Zou visits us and presents his work in form of a talk.
