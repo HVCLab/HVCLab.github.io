@@ -8,8 +8,11 @@ permalink: /news/
 
 <hr>
 
+### October
+
+
 ### September
-- The lab will be presenting the latest work at the [Society for the Neurobiology of Language (SNL) 2026 Annual Meeting](https://2026.neurolang.org) in Geneva. Across talks and posters, our contributions cover predictive speech processing, lexical and prosodic stress, auditory timing, semantic prediction, and rate-normalized speech perception. Come find us throughout the meeting! More details [here](../uploaded_files/snl2026.pdf)
+- The lab presents the latest work at the [Society for the Neurobiology of Language (SNL) 2026 Annual Meeting](https://2026.neurolang.org) in Geneva. Across talks and posters, our contributions cover predictive speech processing, lexical and prosodic stress, auditory timing, semantic prediction, and rate-normalized speech perception. More details [here](../uploaded_files/snl2026.pdf)
 
 ### August
 - **Chang** presents a poster and a spotlight talk at [Analytical Connectionism 2026](https://www.analytical-connectionism.net/school/2026/) in Gothenburg, Sweden.
