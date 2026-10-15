@@ -1,9 +1,37 @@
 - header: '<h2>Speech, Language, Neuroscience</h2>'
 
-#- header: '<h3>Preprints</h3>'
+- header: '<h3>Preprints</h3>'
+
+- year: '2026'
+  type: 'preprint'
+  title: 'Rapid neural analysis of linguistic stress and meter in continuous speech.'
+  authors: 'Beier, E. J., Kojima, K., Powell, S., Liu, J., Davis, K., Korsnack, K., Myers, B.R., Lense, M. D., Nayak, S., Gordon, R. L., Magne, C. L., Oganian, Y.'
+  journal: '<i>bioRxiv.</i>'
+  link: https://www.biorxiv.org/content/10.64898/2026.05.04.722740v1
+
+- year: '2026'
+  type: 'preprint'
+  title: 'Semantic ambiguity dissociates the roles of word meaning and co-occurrence statistics in sentence processing.'
+  authors: 'Zyryanov, A., Pierz, V., Oganian, Y.'
+  journal: '<i>bioRxiv.</i>'
+  link: https://www.biorxiv.org/content/10.64898/2026.05.15.724229v2
+
+- year: '2026'
+  type: 'preprint'
+  title: 'Auditory timing precision is determined by spectro-temporal continuity across sounds, not individual sound acoustics.'
+  authors: 'Mock, C. M., Ilge, L., Oganian, Y.'
+  journal: '<i>bioRxiv.</i>'
+  link: https://www.biorxiv.org/content/10.64898/2026.09.26.754418v1
+
 
 - header: '<h3>Published in peer-reviewed journals</h3>'
 
+- year: '2026'
+  type: 'published'
+  title: 'Testing the role of temporal attention in speech: Pre-target alpha predicts memory encoding rather than effects of linguistic focus.'
+  authors: 'Beier, E. J., Breska, A., Miller, L. M., Oganian, Y., Mangun, G. R., Swaab, T. Y.'
+  journal: '<i>Journal of Neuroscience.</i>'
+  link: https://www.jneurosci.org/content/46/18/e2099252026
 
 - year: '2024'
   type: 'published'
@@ -11,7 +39,6 @@
   authors: 'Qi, T., Mandelli, M. L., Pereira, C. L. W., Wellman, E., Bogley, R., Licata, A. E., Miller, Z., Tee, B.L., de Leon, J., Chang, E.F., Oganian, Y. & Gorno-Tempini, M. L.'
   journal: '<i>Brain.</i>'
   link: https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae298/7762235?utm_source=advanceaccess&utm_campaign=brain&utm_medium=email
-
 
 - year: '2023'
   type: 'published'
@@ -62,7 +89,7 @@
   type: 'published'
   title: 'Risk incidence of fractures and injuries: A multicenter video-EEG study of 626 generalized convulsive seizures.'
   authors: 'Frey, K., Zöllner, J.P., Knake, S., Oganian, Y., Kay, L., Mahr, K., Keil, F., Willems, L.M., Menzler, K., Bauer, S., Schubert-Bast, S., Rosenow, F., Strzelczyk, A.'
-  journal: '<i>Journal of Neurology, 267,</i> 3632–3642.'
+  journal: '<i>Journal of Neurology, 267,</i> 3632-3642.'
   doi: https://doi.org/10.1007/s00415-020-10065-5
   
 - year: '2019'
@@ -102,14 +129,14 @@
   type: 'published'
   title: 'Activation Patterns throughout the Word Processing Network of L1-dominant Bilinguals Reflect Language Similarity and Language Decisions.'
   authors: 'Oganian, Y., Conrad, M., Aryani, A., Spalek, K.*, & Heekeren, H.R.*'
-  journal: '<i>Journal of Cognitive Neuroscience, 27</i>(11), 2197–2214.'
+  journal: '<i>Journal of Cognitive Neuroscience, 27</i>(11), 2197-2214.'
   doi: https://doi.org/10.1162/jocn_a_00853
   
 - year: '2012'
   type: 'published'
   title: 'Poor anchoring limits dyslexics’ perceptual, memory, and reading skills.'
   authors: 'Oganian, Y., & Ahissar, M.'
-  journal: '<i>Neuropsychologia, 50</i>(8), 1895–1905.'
+  journal: '<i>Neuropsychologia, 50</i>(8), 1895-1905.'
   doi: https://doi.org/10.1016/j.neuropsychologia.2012.04.014
   
 - year: '2008'
@@ -135,8 +162,28 @@
   authors: 'Oganian, Y., Fox, N.P., Chang, E.F.'
   journal: 'In: Holt, L.L., Peelle, J.E., Coffin, A.B., Popper, A.N., Fay, R.R. (Eds.) Speech Perception. Springer Handbook of Auditory Research, Vol. 74. Springer, Cham.'
   doi: https://doi.org/10.1007/978-3-030-81542-4_3
+
+- header: '<h3>Reviews and features</h3>'
+
+- year: '2025'
+  type: 'feature'
+  title: 'Neurophysiologie der Sprachverarbeitung: Ein Blick ins Gehirn.'
+  authors: 'Bang, P., Oganian, Y.'
+  journal: '<i>Neuroforum.</i>'
+  link: https://nwg-info.de/sites/nwg-info.de/files/media/pdf/neuroforum/Neuroforum_02-2025.pdf
   
 - header: '<h2>Decision making</h2>'
+
+- header: '<h3>Preprints</h3>'
+
+- year: '2026'
+  type: 'preprint'
+  title: 'Confidently Neutral by Choice: Cognitive States of Neutrality in Auditory Perceptual Decisions.'
+  authors: 'Kallfaß, L., Wolter, M., Ludig, C., Korn, C, Wagner, V., Oganian, Y.'
+  journal: '<i>PsyArXiv.</i>'
+  link: https://osf.io/preprints/psyarxiv/z3p95_v2
+
+- header: '<h3>Published in peer-reviewed journals</h3>'
 
 - year: '2022'
   type: 'published'
@@ -170,7 +217,7 @@
   type: 'published'
   title: 'A hard-to-read font reduces the framing effect in a large sample.'
   authors: 'Korn, C.W., Ries, J., Schalk, L., Oganian, Y., & Saalbach, H. A.'
-  journal: '<i>Psychonomic Bulletin & Review, 25,</i> 696–703.'
+  journal: '<i>Psychonomic Bulletin & Review, 25,</i> 696-703.'
   doi: https://doi.org/10.3758/s13423-017-1395-4
   
 - year: '2017'
@@ -184,5 +231,5 @@
   type: 'published'
   title: 'Language switching - but not foreign language use per se - reduces the framing effect.'
   authors: 'Oganian, Y.*, Korn, C.W.*, & Heekeren, H.R.'
-  journal: '<i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</i>(1), 140–148.'
+  journal: '<i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</i>(1), 140-148.'
   doi: https://doi.org/10.1037/xlm0000161
