@@ -1,11 +1,17 @@
-- header: '<h2>Speech, Language, Neuroscience</h2>'
 
-- header: '<h3>Preprints</h3>'
+- header: '<br><h3>Preprints</h3><hr>'
+
+- year: '2026'
+  type: 'preprint'
+  title: 'Confidently Neutral by Choice: Cognitive States of Neutrality in Auditory Perceptual Decisions.'
+  authors: 'Kallfaß, L., Wolter, M., Ludig, C., Korn, C., Wagner, V., Oganian, Y.'
+  journal: '<i>PsyArXiv.</i>'
+  link: https://osf.io/preprints/psyarxiv/z3p95_v2
 
 - year: '2026'
   type: 'preprint'
   title: 'Rapid neural analysis of linguistic stress and meter in continuous speech.'
-  authors: 'Beier, E. J., Kojima, K., Powell, S., Liu, J., Davis, K., Korsnack, K., Myers, B.R., Lense, M. D., Nayak, S., Gordon, R. L., Magne, C. L., Oganian, Y.'
+  authors: 'Zugarramurdi, C., Beier, E. J., Kojima, K., Powell, S., Liu, J., Davis, K., Korsnack, K., Myers, B.R., Lense, M. D., Nayak, S., Gordon, R. L., Magne, C. L., Oganian, Y.'
   journal: '<i>bioRxiv.</i>'
   link: https://www.biorxiv.org/content/10.64898/2026.05.04.722740v1
 
@@ -23,8 +29,14 @@
   journal: '<i>bioRxiv.</i>'
   link: https://www.biorxiv.org/content/10.64898/2026.09.26.754418v1
 
+- year: '2025'
+  type: 'preprint'
+  title: 'Does The Option To Be Neutral Alter The Framing Effect?'
+  authors: 'Liu, J., Oganian, Y., Wagner, V.,  Korn, C.'
+  journal: '<i>PsyArXiv.</i>'
+  link: https://osf.io/preprints/psyarxiv/9c7z4_v1
 
-- header: '<h3>Published in peer-reviewed journals</h3>'
+- header: '<br><br><h3>Published in peer-reviewed journals</h3><hr>'
 
 - year: '2026'
   type: 'published'
@@ -68,6 +80,20 @@
   journal: '<i>Cell.</i>'
   link: https://www.cell.com/neuron/fulltext/S0896-6273(23)00266-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627323002660%3Fshowall%3Dtrue
 
+- year: '2022'
+  type: 'published'
+  title: 'Face masks drive increased rational decision-making.'
+  authors: 'Fatfouta, R., & Oganian, Y.'
+  journal: '<i>Current Psychology.</i> Advance online publication.'
+  doi: https://doi.org/10.1007/s12144-022-03895-1
+  
+- year: '2021'
+  type: 'published'
+  title: 'Risk perception and optimism during the early stages of the COVID-19 pandemic.'
+  authors: 'Kuper-Smith, B. J., Doppelhofer, L. M., Oganian, Y., Rosenblau, G., & Korn, C.'
+  journal: '<i>Royal Society Open Science, 8,</i> 210904.210904'
+  doi: https://doi.org/10.1098/rsos.210904
+  
 - year: '2021'
   type: 'published'
   title: 'Parallel and distributed encoding of speech across human auditory cortex.'
@@ -110,7 +136,42 @@
   authors: 'Spalek, K.* & Oganian, Y.*'
   journal: '<i>Brain & Language, 194,</i> 98-108.'
   doi: https://doi.org/10.1016/j.bandl.2019.04.007
+
+- year: '2019'
+  type: 'published'
+  title: 'The framing effect in a monetary gambling task is robust in minimally verbal language switching contexts.'
+  authors: 'Korn, C.W., Heekeren, H.R., Oganian, Y.'
+  journal: '<i>Quarterly Journal of Experimental Psychology, 72</i>(1), 52-59.'
+  doi: https://doi.org/10.1177/1747021818769259
   
+- year: '2019'
+  type: 'published'
+  title: 'Low foreign language proficiency reduces optimism about the personal future.'
+  authors: 'Oganian, Y., Heekeren, H.R., Korn, C.W.'
+  journal: '<i>Quarterly Journal of Experimental Psychology, 72</i>(1), 60-75.'
+  doi: https://doi.org/10.1177/1747021818774789
+  
+- year: '2018'
+  type: 'published'
+  title: 'A hard-to-read font reduces the framing effect in a large sample.'
+  authors: 'Korn, C.W., Ries, J., Schalk, L., Oganian, Y., & Saalbach, H. A.'
+  journal: '<i>Psychonomic Bulletin & Review, 25,</i> 696-703.'
+  doi: https://doi.org/10.3758/s13423-017-1395-4
+  
+- year: '2017'
+  type: 'published'
+  title: 'Second Language Use Facilitates Implicit Emotion Regulation via Content Labeling.'
+  authors: 'Morawetz, C.*, Oganian, Y.*, Schlickeiser, U., Jacobs, A.M., & Heekeren, H.R.'
+  journal: '<i>Frontiers in Psychology, 8,</i> 366.'
+  doi: https://doi.org/10.3389/fpsyg.2017.00366
+  
+- year: '2016'
+  type: 'published'
+  title: 'Language switching - but not foreign language use per se - reduces the framing effect.'
+  authors: 'Oganian, Y.*, Korn, C.W.*, & Heekeren, H.R.'
+  journal: '<i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</i>(1), 140-148.'
+  doi: https://doi.org/10.1037/xlm0000161
+
 - year: '2016'
   type: 'published'
   title: 'Slower perception followed by faster lexical decision in longer words: A diffusion model analysis.'
@@ -146,7 +207,8 @@
   journal: '<i>Trends in Cognitive Sciences, 12</i>(7), 245-246.'
   doi: https://doi.org/10.1016/j.tics.2008.05.001
 
-- header: '<h3>Peer-reviewed conference proceedings</h3>'
+
+- header: '<br><br><h3>Peer-reviewed conference proceedings</h3><hr>'
 
 - year: '2021'
   type: 'proceedings'
@@ -154,7 +216,7 @@
   authors: 'Stephen E., Li Y., Metzger S., Oganian Y., Chang E.F.'
   journal: '<i>COSYNE Conference proceedings.</i>'
 
-- header: '<h3>Book chapters</h3>'
+- header: '<br><br><h3>Book chapters</h3><hr>'
 
 - year: '2022'
   type: 'chapter'
@@ -163,7 +225,7 @@
   journal: 'In: Holt, L.L., Peelle, J.E., Coffin, A.B., Popper, A.N., Fay, R.R. (Eds.) Speech Perception. Springer Handbook of Auditory Research, Vol. 74. Springer, Cham.'
   doi: https://doi.org/10.1007/978-3-030-81542-4_3
 
-- header: '<h3>Reviews and features</h3>'
+- header: '<br><br><h3>Reviews and features</h3><hr>'
 
 - year: '2025'
   type: 'feature'
@@ -172,64 +234,3 @@
   journal: '<i>Neuroforum.</i>'
   link: https://nwg-info.de/sites/nwg-info.de/files/media/pdf/neuroforum/Neuroforum_02-2025.pdf
   
-- header: '<h2>Decision making</h2>'
-
-- header: '<h3>Preprints</h3>'
-
-- year: '2026'
-  type: 'preprint'
-  title: 'Confidently Neutral by Choice: Cognitive States of Neutrality in Auditory Perceptual Decisions.'
-  authors: 'Kallfaß, L., Wolter, M., Ludig, C., Korn, C, Wagner, V., Oganian, Y.'
-  journal: '<i>PsyArXiv.</i>'
-  link: https://osf.io/preprints/psyarxiv/z3p95_v2
-
-- header: '<h3>Published in peer-reviewed journals</h3>'
-
-- year: '2022'
-  type: 'published'
-  title: 'Face masks drive increased rational decision-making.'
-  authors: 'Fatfouta, R., & Oganian, Y.'
-  journal: '<i>Current Psychology.</i> Advance online publication.'
-  doi: https://doi.org/10.1007/s12144-022-03895-1
-  
-- year: '2021'
-  type: 'published'
-  title: 'Risk perception and optimism during the early stages of the COVID-19 pandemic.'
-  authors: 'Kuper-Smith, B. J., Doppelhofer, L. M., Oganian, Y., Rosenblau, G., & Korn, C.'
-  journal: '<i>Royal Society Open Science, 8,</i> 210904.210904'
-  doi: https://doi.org/10.1098/rsos.210904
-  
-- year: '2019'
-  type: 'published'
-  title: 'The framing effect in a monetary gambling task is robust in minimally verbal language switching contexts.'
-  authors: 'Korn, C.W., Heekeren, H.R., Oganian, Y.'
-  journal: '<i>Quarterly Journal of Experimental Psychology, 72</i>(1), 52-59.'
-  doi: https://doi.org/10.1177/1747021818769259
-  
-- year: '2019'
-  type: 'published'
-  title: 'Low foreign language proficiency reduces optimism about the personal future.'
-  authors: 'Oganian, Y., Heekeren, H.R., Korn, C.W.'
-  journal: '<i>Quarterly Journal of Experimental Psychology, 72</i>(1), 60-75.'
-  doi: https://doi.org/10.1177/1747021818774789
-  
-- year: '2018'
-  type: 'published'
-  title: 'A hard-to-read font reduces the framing effect in a large sample.'
-  authors: 'Korn, C.W., Ries, J., Schalk, L., Oganian, Y., & Saalbach, H. A.'
-  journal: '<i>Psychonomic Bulletin & Review, 25,</i> 696-703.'
-  doi: https://doi.org/10.3758/s13423-017-1395-4
-  
-- year: '2017'
-  type: 'published'
-  title: 'Second Language Use Facilitates Implicit Emotion Regulation via Content Labeling.'
-  authors: 'Morawetz, C.*, Oganian, Y.*, Schlickeiser, U., Jacobs, A.M., & Heekeren, H.R.'
-  journal: '<i>Frontiers in Psychology, 8,</i> 366.'
-  doi: https://doi.org/10.3389/fpsyg.2017.00366
-  
-- year: '2016'
-  type: 'published'
-  title: 'Language switching - but not foreign language use per se - reduces the framing effect.'
-  authors: 'Oganian, Y.*, Korn, C.W.*, & Heekeren, H.R.'
-  journal: '<i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</i>(1), 140-148.'
-  doi: https://doi.org/10.1037/xlm0000161
