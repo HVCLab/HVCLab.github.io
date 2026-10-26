@@ -9,7 +9,7 @@ permalink: /news/
 <hr>
 
 ### October
-
+- **Patricia** has successfully completed her Master's Thesis. Congratulations! It's great that she is staying with us to continue her project.
 
 ### September
 - The lab presents the latest work at the [Society for the Neurobiology of Language (SNL) 2026 Annual Meeting](https://2026.neurolang.org) in Geneva. Across talks and posters, our contributions cover predictive speech processing, lexical and prosodic stress, auditory timing, semantic prediction, and rate-normalized speech perception. More details [here](../uploaded_files/snl2026.pdf)
